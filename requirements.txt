@@ -1,0 +1,5 @@
+Flask>=2.0
+Flask-SQLAlchemy>=2.5  # <--- Library for Database ORM
+Flask-Marshmallow>=0.14
+marshmallow>=3.0
+pytz
